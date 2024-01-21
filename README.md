@@ -35,3 +35,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 For detailed instructions on how to create and use this template, see [replicate.com/docs/get-started/nextjs](https://replicate.com/docs/get-started/nextjs)
 
 <img width="707" alt="iguana" src="https://github.com/replicate/getting-started-nextjs/assets/14149230/5d1933ec-a083-4de6-90e2-7552e33e4a85">
+
+
+ const prompt = `Extremely detailed tattoo masterpiece design:${description} with a ${style} design,
+   against a clean and minimalist white background and a ${color} palette for the tattoo.
+  `;
+
+  demo: Extremely detailed tattoo masterpiece design: An elefant riding abicycle with a Traditional design,
+   against a clean and minimalist white background and a Black palette for the tattoo.
